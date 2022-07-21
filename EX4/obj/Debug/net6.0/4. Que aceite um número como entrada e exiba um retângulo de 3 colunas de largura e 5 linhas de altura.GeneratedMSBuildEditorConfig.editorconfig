@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _4._Que_aceite_um_número_como_entrada_e_exiba_um_retângulo_de_3_colunas_de_largura_e_5_linhas_de_altura
+build_property.ProjectDir = c:\projetos\c#\Exercicios csharp\EX4\

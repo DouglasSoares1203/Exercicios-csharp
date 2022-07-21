@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _12._O_valor_mais_próximo_de_20_de_dois_números_inteiros_e_retornar_0_se_dois_números_forem_iguais
+build_property.ProjectDir = c:\projetos\c#\Exercicios csharp\EX12\

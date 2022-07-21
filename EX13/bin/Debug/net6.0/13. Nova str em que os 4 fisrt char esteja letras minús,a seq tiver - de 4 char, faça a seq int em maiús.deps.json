@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "13. Nova str em que os 4 fisrt char esteja letras minús,a seq tiver - de 4 char, faça a seq int em maiús/1.0.0": {
+        "runtime": {
+          "13. Nova str em que os 4 fisrt char esteja letras minús,a seq tiver - de 4 char, faça a seq int em maiús.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13. Nova str em que os 4 fisrt char esteja letras minús,a seq tiver - de 4 char, faça a seq int em maiús/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1. Escreva um programa C# para trocar dois números digitados pelo usuário/1.0.0": {
+        "runtime": {
+          "1. Escreva um programa C# para trocar dois números digitados pelo usuário.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1. Escreva um programa C# para trocar dois números digitados pelo usuário/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_12._O_valor_mais_próximo_de_20_de_dois_números_inteiros_e_retornar_0_se_dois_números_forem_iguais</RootNamespace>
+    
+  </PropertyGroup>
+
+</Project>

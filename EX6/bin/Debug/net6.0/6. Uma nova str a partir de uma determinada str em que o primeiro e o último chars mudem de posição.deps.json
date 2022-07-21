@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "6. Uma nova str a partir de uma determinada str em que o primeiro e o último chars mudem de posição/1.0.0": {
+        "runtime": {
+          "6. Uma nova str a partir de uma determinada str em que o primeiro e o último chars mudem de posição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6. Uma nova str a partir de uma determinada str em que o primeiro e o último chars mudem de posição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

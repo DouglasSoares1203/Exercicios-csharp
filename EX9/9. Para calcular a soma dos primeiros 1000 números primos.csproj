@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_9._Para_calcular_a_soma_dos_primeiros_1000_números_primos</RootNamespace>
+    
+  </PropertyGroup>
+
+</Project>

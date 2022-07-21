@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5. Remove um char especificado de uma sequência de chars ñ vazia usando o índice de um char/1.0.0": {
+        "runtime": {
+          "5. Remove um char especificado de uma sequência de chars ñ vazia usando o índice de um char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Remove um char especificado de uma sequência de chars ñ vazia usando o índice de um char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "15. Para calcular a soma de todos os elementos de uma matriz de números inteiros/1.0.0": {
+        "runtime": {
+          "15. Para calcular a soma de todos os elementos de uma matriz de números inteiros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15. Para calcular a soma de todos os elementos de uma matriz de números inteiros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

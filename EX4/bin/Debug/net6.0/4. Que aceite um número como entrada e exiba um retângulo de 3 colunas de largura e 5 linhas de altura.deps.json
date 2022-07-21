@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura/1.0.0": {
+        "runtime": {
+          "4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

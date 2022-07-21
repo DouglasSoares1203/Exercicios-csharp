@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _16._Para_girar_uma_matriz__comprimento_3__de_números_inteiros_na_direção_esquerda
+build_property.ProjectDir = c:\projetos\c#\Exercicios csharp\EX16\

@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/4. Que aceite um número como entrada e exiba um retângulo de 3 colunas de largura e 5 linhas de altura.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

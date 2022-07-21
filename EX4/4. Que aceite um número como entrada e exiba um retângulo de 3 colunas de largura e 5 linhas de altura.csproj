@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_4._Que_aceite_um_número_como_entrada_e_exiba_um_retângulo_de_3_colunas_de_largura_e_5_linhas_de_altura</RootNamespace>
+    
+  </PropertyGroup>
+
+</Project>

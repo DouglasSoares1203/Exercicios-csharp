@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "17. Para obter o valor maior entre o primeiro e o último elemento de uma matriz (L = 3) de números int/1.0.0": {
+        "runtime": {
+          "17. Para obter o valor maior entre o primeiro e o último elemento de uma matriz (L = 3) de números int.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17. Para obter o valor maior entre o primeiro e o último elemento de uma matriz (L = 3) de números int/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

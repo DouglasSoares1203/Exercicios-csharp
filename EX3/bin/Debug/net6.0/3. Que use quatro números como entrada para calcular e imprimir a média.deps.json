@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3. Que use quatro números como entrada para calcular e imprimir a média/1.0.0": {
+        "runtime": {
+          "3. Que use quatro números como entrada para calcular e imprimir a média.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3. Que use quatro números como entrada para calcular e imprimir a média/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
